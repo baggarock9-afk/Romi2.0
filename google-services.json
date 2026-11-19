@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "720494025594",
+    "project_id": "gen-lang-client-0960421075",
+    "storage_bucket": "gen-lang-client-0960421075.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720494025594:android:4c3c49f0a7f400b0ff94c3",
+        "android_client_info": {
+          "package_name": "com.aistudio.romicompanion.dktytz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwDEYaGjxysStuwBl5BU3Vmoa-hlekB4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720494025594:android:5261d8f3a4c8bcbeff94c3",
+        "android_client_info": {
+          "package_name": "com.aistudio.romicompanion.xkmpqz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwDEYaGjxysStuwBl5BU3Vmoa-hlekB4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720494025594:android:f4b76d3363e6413dff94c3",
+        "android_client_info": {
+          "package_name": "com.aistudio.romicompanion.xkqmvn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwDEYaGjxysStuwBl5BU3Vmoa-hlekB4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
