@@ -1,0 +1,8 @@
+{
+  "name": "Remix Romi",
+  "description": "An interactive anime AI companion app featuring expressive moods, cozy room aesthetics, voice responses, and live Gemini-powered conversations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
