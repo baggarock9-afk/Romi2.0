@@ -1,4 +1,4 @@
-package com.example.avatar
+jipackage com.example.avatar
 
 import kotlinx.coroutines.flow.MutableSharedFlow
 import kotlinx.coroutines.flow.MutableStateFlow
